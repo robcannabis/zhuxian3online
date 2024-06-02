@@ -40,7 +40,7 @@ client.on('ready', async () => {
     const yyyt = ['꒰ Discord ꒱']; // ชื่อ button1
     const ddds = ['https://discord.gg/zhuxian3online']; // ลิ้ง button1
 
-   const iooi = ['꒰ Instagram ꒱']; // ชื่อ button 2
+   const iooi = ['꒰ Facebook ꒱']; // ชื่อ button 2
    const iiio = ['https://www.facebook.com/zxlnw2']; // ลิ้ง button 2
    const tyyy = yyyt[Math.floor(Math.random()*yyyt.length)]; // ชื่อ button 2
    const sddd = ddds[Math.floor(Math.random()*ddds.length)]; // ลิ้ง button 2
